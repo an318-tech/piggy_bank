@@ -1,0 +1,33 @@
+[
+  {
+    "name": "аа",
+    "target_amount": 11111.0,
+    "current_balance": 5555.0,
+    "category": "Другое",
+    "status": "активна",
+    "history": [
+      {
+        "timestamp": "2026-11-03T11:28:57.569166",
+        "type": "Пополнение",
+        "value": 5555.0,
+        "balance_after": 5555.0
+      }
+    ]
+  },
+  {
+    "name": "111111",
+    "target_amount": 111111.0,
+    "current_balance": 0.0,
+    "category": "Техника",
+    "status": "активна",
+    "history": []
+  },
+  {
+    "name": "11",
+    "target_amount": 11111.0,
+    "current_balance": 0.0,
+    "category": "Техника",
+    "status": "активна",
+    "history": []
+  }
+]
